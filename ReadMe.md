@@ -1,4 +1,13 @@
 # 새늘봄 프로젝트
+## 사이트 둘러보기 가이드
+> 쇼핑몰 페이지(http://alwaysbom.xyz)
+> - ID : test2@test.com
+> - password : tosmfqha1!
+
+> 백오피스(http://alwaysbom.xyz/admin/main
+> - ID : admin
+> - password : tosmfqha1!
+
 ### 개발기간 | 2021.03.11 ~ 2021.04.13
 
 ### 주요 역할
